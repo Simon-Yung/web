@@ -26,7 +26,7 @@ class Test {
 				<!-- HEADER -->
 					<header id="header" class="header">
 					<div class="header__inner">
-					<a class="header__logo" href="/">LICHTA</a>
+					<a class="header__logo" href="${data.website.url}">LICHTA</a>
 					<nav class="navbar">
 						<a class="navbar__bigItem" href="${data.website.url}/bio">PEINTRE&nbsp;CONTEMPORAIN</a>
 						<span class="navbar__separator">/</span>
