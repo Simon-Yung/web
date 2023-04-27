@@ -20,7 +20,7 @@ footer: |
   <div class="backToTop" onclick="window.scrollTo({ top: 0, left: 0, behavior: 'smooth'});"><span class="backToTop__icon"></span></div>
 modal: |
   <div id="modal_window" class="modalWindow">
-    <img id="spinner" class="spinner spinning" src="/includes/assets/images/load.png">
+    <img id="spinner" class="spinner spinning" src="https://simon-yung.github.io/web/includes/assets/images/load.png">
     <div id="modal_image_container" class="modalWindow__container">
       <img id="modal_image" class="modalImage" src="">
     </div>
@@ -31,10 +31,10 @@ modal: |
           <p id="buy_link_text">...</p>
         </a>
       </div>
-      <div id="previous" class="controlBar__button controlBar__button--previous"><img src="/includes/assets/images/arrow.png" alt=" &#171; "></div>
+      <div id="previous" class="controlBar__button controlBar__button--previous"><img src="https://simon-yung.github.io/web/includes/assets/images/arrow.png" alt=" &#171; "></div>
       <a id="pagination" class="controlBar__pagination"> 1/1 </a>
-      <div id="next" class="controlBar__button controlBar__button--next"><img src="/includes/assets/images/arrow.png" alt=" &#187; "></div>
-      <div id="close" class="controlBar__button controlBar__button--close"><img src="/includes/assets/images/cross.png" alt=" X "></div>
+      <div id="next" class="controlBar__button controlBar__button--next"><img src="https://simon-yung.github.io/web/includes/assets/images/arrow.png" alt=" &#187; "></div>
+      <div id="close" class="controlBar__button controlBar__button--close"><img src="https://simon-yung.github.io/web/includes/assets/images/cross.png" alt=" X "></div>
     </div>
     <div id="contextual_menu" class="modalWindow__contextualMenu">
       <span id="menu_previous" class="modalWindow__contextualMenu__element">Previous</span>

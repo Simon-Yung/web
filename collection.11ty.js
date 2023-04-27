@@ -39,7 +39,7 @@ class Test {
 					<img
 						onclick="openModalGallery(${i})"
 						data-title="${item.artworks[i].title}"
-						data-href="/artwork/${this.slug(item.artworks[i].title)}-${item.artworks[i].hash}"
+						data-href="${data.website.url}/artwork/${this.slug(item.artworks[i].title)}-${item.artworks[i].hash}"
 						data-src="${data.website.url}${item.artworks[i].image.large}"
 						id="${i}"
 						class="gallery__preview"
