@@ -1,0 +1,44 @@
+header: |
+  <header id="header" class="header">
+    <div class="header__inner">
+    <a class="header__logo" href="/">LICHTA</a>
+    <nav class="navbar">
+      <a class="navbar__bigItem" href="{{website.url}}/bio">PEINTRE&nbsp;CONTEMPORAIN</a>
+      <span class="navbar__separator">/</span>
+      <a class="navbar__bigItem" href="{{website.url}}/gallery">COLLECTIONS</a>
+    </nav>
+    </div>
+  </header>
+  <div class="header__underBlock">
+    <p class="header__underBlock__text"><a target="_blank" href="https://linktr.ee/lucborell">linktr.ee/lucborell</a></p>
+  </div>
+footer: |
+  <footer class="footer">
+    <p class="footer__text">©2023 LICHTA · <a href="mailto:MAIL.TEST" style="color: #eeeeee">LICHTA@Email.test</a></p>
+    <p class="footer__text"><a href="{{website.url}}/copyright " style="color: #eeeeee">Propriété Intellectuelle, Droit d'Auteur</a></p>
+  </footer>
+  <div class="backToTop" onclick="window.scrollTo({ top: 0, left: 0, behavior: 'smooth'});"><span class="backToTop__icon"></span></div>
+modal: |
+  <div id="modal_window" class="modalWindow">
+    <img id="spinner" class="spinner spinning" src="/includes/assets/images/load.png">
+    <div id="modal_image_container" class="modalWindow__container">
+      <img id="modal_image" class="modalImage" src="">
+    </div>
+    <div class="controlBar">
+      <div class="controlBar__button">
+        <a id="purchase_link" class="controlBar__purchaseLink" target="_blank" rel="noopener noreferrer" href="">
+          <img src="/includes/assets/images/external_link.png">
+          <p id="buy_link_text">...</p>
+        </a>
+      </div>
+      <div id="previous" class="controlBar__button controlBar__button--previous"><img src="/includes/assets/images/arrow.png" alt=" &#171; "></div>
+      <a id="pagination" class="controlBar__pagination"> 1/1 </a>
+      <div id="next" class="controlBar__button controlBar__button--next"><img src="/includes/assets/images/arrow.png" alt=" &#187; "></div>
+      <div id="close" class="controlBar__button controlBar__button--close"><img src="/includes/assets/images/cross.png" alt=" X "></div>
+    </div>
+    <div id="contextual_menu" class="modalWindow__contextualMenu">
+      <span id="menu_previous" class="modalWindow__contextualMenu__element">Previous</span>
+      <span id="menu_next" class="modalWindow__contextualMenu__element">Next</span>
+      <span id="menu_close" class="modalWindow__contextualMenu__element">Close</span>
+    </div>
+  </div>
