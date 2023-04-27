@@ -460,7 +460,8 @@
 	.controlBar__pagination::after {
 		margin-left: 6px;
 		content: '';
-		background-image: url('/includes/assets/images/outgoing.png');
+		background-image: url('https://simon-yung.github.io/web/includes/assets/images/outgoing.png');
+		/* fuuuuuuuuudsugovuoghrubfw*/
 		background-size: contain;
 		background-repeat: no-repeat;
 		display: inline-block;
