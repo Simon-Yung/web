@@ -25,7 +25,22 @@ class Test {
 		}
 		return `
 			<nav class="chapterList">
+			<img
+				id="BG_${-1}"
+				class="backgroundImage"
+				src="${data.website.url}/includes/assets/images/lichta.jpg"
+			>
+			<a
+				style="margin-bottom:0.75rem;"
+				data-bg-id="BG_${-1}"
+				href="${data.website.url}/bio/" 
+				class="chapterList__chapter"
+			>
+			ARTISTE PEINTRE CONTEMPORAIN
+			</a>
+			<hr>
 			${chapters}
+			<hr style="margin-top:1.25rem">
 			</nav>`
 	}
 }

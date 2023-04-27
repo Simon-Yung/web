@@ -310,8 +310,8 @@
 		width: 100%;
 		height: 50px;
 		padding: 0 2rem 0 2rem;
-		margin: 0 auto 0 auto;
-		margin-top: auto;
+		margin: 3rem auto 0 auto;
+		/* margin-top: auto; */
 
 		display: flex;
 		flex-direction: row;
@@ -339,6 +339,10 @@
 
 	.footer__text:nth-child(1) {
 		margin-right: auto;
+		display: flex;
+		flex-direction: row;
+		justify-content: flex-start;
+		align-items: center;
 	}
 
 	.footer__text:nth-child(2) {
@@ -1004,6 +1008,6 @@ video{
 		background-size: contain;
 		background-repeat: no-repeat;
 		display: inline-block;
-		width: 16px;
-		height: 16px;
+		width: 1rem;
+		height: 1rem;
 	}

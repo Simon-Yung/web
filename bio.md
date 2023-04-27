@@ -1,5 +1,5 @@
 ---
-title: "ARTISTE DIGITAL"
+title: "ARTISTE"
 layout: textWithBg.njk
 lang: fr
 image: ""
@@ -7,6 +7,10 @@ description: ""
 ---
 
 # Lichta
+
+&nbsp;
+
+## ARTISTE PEINTRE CONTEMPORAIN
 
 &nbsp;
 
@@ -27,7 +31,7 @@ Les couleurs et les matières qui constituent son travail sont l’humeur de ses
 
 &nbsp;
 
-# Lichta
+## CONTEMPORARY ARTIST PAINTER
 
 &nbsp;
 
@@ -48,7 +52,7 @@ The colors and materials that make up his work are the mood of his moments.
 
 &nbsp;
 
-# Lichta
+## ARTISTA PINTOR CONTEMPORÁNEO
 
 &nbsp;
 
