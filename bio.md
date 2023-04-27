@@ -1,12 +1,12 @@
 ---
 title: "ARTISTE DIGITAL"
-layout: text.njk
+layout: textWithBg.njk
 lang: fr
 image: ""
 description: ""
 ---
 
-# 	Lichta
+# Lichta
 
 &nbsp;
 
@@ -27,7 +27,7 @@ Les couleurs et les matières qui constituent son travail sont l’humeur de ses
 
 &nbsp;
 
-# lichta
+# Lichta
 
 &nbsp;
 
@@ -48,7 +48,7 @@ The colors and materials that make up his work are the mood of his moments.
 
 &nbsp;
 
-# lichta
+# Lichta
 
 &nbsp;
 

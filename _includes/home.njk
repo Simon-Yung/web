@@ -1,53 +1,16 @@
 ---
-description: "En tant que professionnel de l'art et du design, passionné et soucieux du détail, j'ai toujours aimé, de manière créative, aborder des projets uniques et complexes.  
-Je m'efforce constamment d'améliorer mes techniques, d'élargir mes compétences et de trouver de nouvelles opportunités pour grandir en tant qu'artiste.  
-"
 ---
 
 <!doctype html>
 <html style="scroll-behavior: smooth;">
     <head>
-        <link href="https://fonts.googleapis.com/css2?family=Mukta:wght@200;300;400;500;600;700&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Mukta:wght@200;300;400;500&display=swap" rel="stylesheet">
+        <script src="{{ website.url }}/includes/assets/js/dynamic_background.js" defer></script>
         <link rel="stylesheet" href="{{ website.url }}/includes/assets/css/styles.css"> {% include "components/metadata.njk" %}
-        <script>
-            window.addEventListener('DOMContentLoaded', () => {
-                let chapter = document.getElementsByClassName('chapterList__Chapter');
-                for (let i = 0; i < chapter.length; i++) {
-                    chapter[i].addEventListener('mouseenter', () => {
-                        document
-                            .getElementById(`${
-                                chapter[i].id
-                            }Img`)
-                            .style
-                            .animation = '0.5s ease-in-out 0s 1 normal forwards running fadeIn'
-                    });
-                    chapter[i].addEventListener('mouseleave', () => {
-                        document
-                            .getElementById(`${
-                                chapter[i].id
-                            }Img`)
-                            .style
-                            .animation = '0.5s ease-in-out 0s 1 normal forwards running fadeOut'
-                    });
-                };
-            });
-        </script>
     </head>
-    <body
-        class="homePage">
-        <!--<img class="background" src="{{website.url}}/includes/assets/images/HORIZON.jpg">-->
+    <body class="home_page">
         {% include "components/header.njk" %}
         {{ content | safe }}
-        <nav
-            class="chapterList">
-            <!-- <a href="{{ website.url }}/bio" class="big_chapter"> LUCBORELL ARTISTE DIGITAL </a> -->
-            {%- for chapter in collections.chapters | reverse %}
-                <img id="{{ loop.index }}Img" class="backgroundImage" src="{{ website.url }}{{ chapter.url }}/icon.jpg">
-                <a id="{{ loop.index }}" href="{{ website.url }}{{ chapter.url }}" class="chapterList__Chapter">
-                    {{ chapter.data.title | upper }}
-                </a>
-            {%- endfor %}
-        </nav>
         {% include "components/footer.njk" %}
     </body>
 </html>

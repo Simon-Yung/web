@@ -69,26 +69,29 @@
 
 	h1 {
 		/* just for video titles */
-		font: 700 1.25rem/1.25 'Mukta', sans-serif;
+		font: 200 2rem/1.0 'Mukta', sans-serif;
 		color: var(--main-fg-color);
 		padding-bottom: 0rem;
 		text-align: center;
+		letter-spacing: 0.25rem;
+		text-transform: uppercase;
 	}
 
 	h2 {
-		font: 700 1.5rem/1.25 'Mukta', sans-serif;
+		font: 200 1.5rem/1.0 'Mukta', sans-serif;
 		color: var(--main-fg-color);
 		padding-bottom: 0rem;
+		letter-spacing: 0.25rem;
 		text-align: left;
 	}
 
 	p {
-		font: 400 1rem/1.5 'Mukta', sans-serif;
+		font: 200 1rem/1.5 'Mukta', sans-serif;
 		color: var(--main-fg-color);
 	}
 
 	span {
-		font: 400 1rem/1.5 'Mukta', sans-serif;
+		font: 200 1rem/1.5 'Mukta', sans-serif;
 		color: var(--main-fg-color);
 	}
 
@@ -186,6 +189,7 @@
 		justify-content: center;
 		align-items: center;
 		height: auto;
+		border-bottom: 1px solid var(--sec-bg-color);
 	}
 
 	.header__inner {
@@ -204,18 +208,17 @@
 		margin: 0;
 		/* height: 0; */
 		width: 100%;
-		border-top: 1px solid var(--sec-bg-color);
+		max-width: 1000px;
 
 		display: flex;
 		flex-direction: row;
 		flex-wrap: nowrap;
-		justify-content: center;
-		padding: 0 20px 0 20px;
+		justify-content: flex-end;
 	}
 
 	.header__underBlock__text {
 		color: inherit;
-		width: 100%;
+		/* width: 100%; */
 		text-align: right;
 		max-width: 1000px;
 		color: var(--main-fg-color);
@@ -327,7 +330,7 @@
 
 	.footer__text a {
 		font: 300 1rem/1.25 'Mukta', sans-serif;
-		color: var(--link-color);
+		color: var(--sec-fg-color);
 	}
 
 	.footer__text a:hover {
@@ -446,7 +449,7 @@
 
 	.controlBar__pagination {
 		flex: 0.60;
-		font: 400 16px/1.0 'Mukta', sans-serif;
+		font: 200 16px/1.0 'Mukta', sans-serif;
 		color: var(--main-fg-color);
 		padding: 5px;
 		text-align: center;
@@ -749,10 +752,10 @@
 	}
 
 	.galleryPage__introBox {
-		padding: 30px;
+		padding: 30px 0px;
 		width: 100%;
 		/* min-height: 100vh; */
-		max-width: 1000px;
+		max-width: 950px;
 		display: flex;
 		justify-content: flex-start;
 		flex-direction: column;
@@ -779,8 +782,6 @@
 
 	.galleryPage__introBox__background>h2 {
 		margin-bottom: 1.25rem;
-		font-weight: 400;
-		text-transform: uppercase;
 		color: var(--main-fg-color);
 	}
 
@@ -789,10 +790,10 @@
 	}
 
 	.gallery {
-		padding: 20px 55px 60px 55px;
+		/* padding: 20px 55px 60px 55px; */
 		/*60-5 px*/
 		width: 100%;
-		max-width: 1010px;
+		max-width: 950px;
 		display: flex;
 		flex-direction: column;
 		flex-wrap: nowrap;
@@ -802,7 +803,7 @@
 
 	.gallery__line {
 		width: 100%;
-		max-width: 1010px;
+		max-width: 950px;
 		display: flex;
 		flex-direction: row;
 		flex-wrap: nowrap;
@@ -882,7 +883,7 @@
 		padding: 30px;
 		width: 100%;
 		/* min-height: 100vh; */
-		max-width: 1000px;
+		max-width: 950px;
 		display: flex;
 		justify-content: flex-start;
 		flex-direction: column;
@@ -899,7 +900,7 @@
 	}
 
 	.textBox p {
-		padding-bottom: 0.5rem;
+		padding-bottom: 1rem;
 	}
 
 	/*----------------------banner----------------------*/
@@ -935,7 +936,7 @@ video{
 	width:90%;
 	max-width:600px;
 } */
-
+	/* misc */
 	.gallery_button {
 		align-self: center;
 		margin: auto;
@@ -985,4 +986,24 @@ video{
 		border-right: 5px solid var(--main-fg-color);
 
 		transition: 0.2s linear;
+	}
+
+	.insta {
+		display: flex;
+		flex-direction: row;
+		align-items: center;
+		justify-content: flex-end;
+	}
+
+	.insta::before {
+		opacity: 0.6;
+		margin-right: 3px;
+		content: '';
+		background-image: url('/includes/assets/images/insta.png');
+		/* fuuuuuuuuudsugovuoghrubfw*/
+		background-size: contain;
+		background-repeat: no-repeat;
+		display: inline-block;
+		width: 16px;
+		height: 16px;
 	}
