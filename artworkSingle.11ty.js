@@ -20,8 +20,10 @@ class Test {
 					<h2>${item.title}</h2>
 					<!-- <hr/> -->
 					${item.description}
-					<span>${Intl.NumberFormat('fr-FR', { style: 'currency', currency: 'EUR' }).format(item.price)}</span>
-				</div>
+					${item.link ? `<a class="buyButton" href="${item.link}" target="${'_blank'}">` : ''}
+						<span class="productPrice">${Intl.NumberFormat('fr-FR', { style: 'currency', currency: 'EUR' }).format(item.price)}</span>
+					${item.link ? ` - ${item.link.replace(/https?:\/\/(www.)?/i, '').replace(/\/$/, '')}</a>` : ''}
+					</div>
 			</a>
 			</div>
 			<div id="gallery" class="gallery"><!-- data-scaling-ratio="${0}" data-buy-text="${0}" data-request-text="${0}"-->
@@ -36,13 +38,6 @@ class Test {
 							flex-grow:${item.image.ratio};
 							flex-shrink:${item.image.ratio};
 					">
-						<!-- img
-							onclick="openModalGallery(${0});// fix later"
-							data-title="${item.title}"
-							data-href="${data.website.url}/artwork/${this.slug(item.title)}-${item.hash}"
-							data-src="${data.website.url}${item.image.large}"
-							id="${0}"
-							class="gallery__preview" -->
 
 						<img style="cursor:default;outline:none" class="gallery__preview"src="${data.website.url}${item.image.full}
 						">

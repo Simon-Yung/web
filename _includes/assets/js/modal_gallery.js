@@ -21,6 +21,7 @@ const closeButton = document.getElementById('close');
 
 //those are the contextual menu elements
 const menu = document.getElementById("contextual_menu");
+const menu_link = document.getElementById('menu_link');
 const menu_next = document.getElementById('menu_next');
 const menu_previous = document.getElementById('menu_previous');
 const menu_close = document.getElementById('menu_close');
@@ -66,6 +67,7 @@ function openModalGallery(imageIDNumber) {
 	pagination.innerHTML = 'Voir en détail';//img.dataset.title;
 	pagination.href = img.dataset.href;
 	image.src = img.dataset.src;
+	menu_link.href = img.dataset.href;
 	currentImage = imageIDNumber;
 
 	//update the buy button

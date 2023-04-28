@@ -102,6 +102,7 @@ module.exports = function (eleventyConfig) {
 					title: yamlData[i]['collection artworks'][j]['artworks title'],
 					description: md.render(yamlData[i]['collection artworks'][j]['artworks description']),
 					price: yamlData[i]['collection artworks'][j]['artworks price'],
+					link: yamlData[i]['collection artworks'][j]['artworks link'],
 					image: {
 						'ratio': metaData.jpeg[2].width / metaData.jpeg[2].height * 100,
 						'small': metaData.jpeg[0].url,

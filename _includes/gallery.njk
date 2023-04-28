@@ -10,10 +10,7 @@ request_text: "Request"
 <!doctype html>
 <html style="scroll-behavior: smooth;">
     <head>
-        <link href="https://fonts.googleapis.com/css2?family=Mukta:wght@200;300;400;500;600;700&display=swap" rel="stylesheet">
-        <link rel="stylesheet" href="{{ website.url }}/includes/assets/css/styles.css">
         <script src="{{ website.url }}/includes/assets/js/modal_gallery.js" defer></script>
-        <!-- <script src="{{website.url}}/includes/assets/js/masonry_resize.js" defer> </script> -->
         <!--overides-->
         {%- if cover %}
             <meta property="og:image" content="{{ website.completeUrl }}/gallery/{{ page.fileSlug }}/larges/{{ cover }}">
@@ -22,8 +19,8 @@ request_text: "Request"
         {%- else %}
             <meta property="og:image" content="{{ website.completeUrl }}/{{ collections[page.fileSlug][0] | replace('/thumbnails','/larges') }}">
         {%- endif %}
-        {% include "components/metadata.njk" %}
-        <script>
+        {% include "components/head.njk" %}
+        <!--script>
             window.addEventListener('DOMContentLoaded', () => {
                 let previews = document.getElementsByClassName('gallery__preview');
                 for (let i = 0; i < previews.length; i++) {
@@ -34,7 +31,7 @@ request_text: "Request"
                     });
                 }
             });
-        </script>
+        </script-->
     </head>
     <body
         class="galleryPage">
