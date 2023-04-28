@@ -2,6 +2,7 @@
 const Image = require("@11ty/eleventy-img");
 const yaml = require("js-yaml");
 const fs = require('fs');
+const md = require('markdown-it')();
 const outputDir = 'docs';
 
 // function searchByGlob(glob) {
@@ -48,7 +49,7 @@ module.exports = function (eleventyConfig) {
 			artworksCollections.push(
 				{
 					title: yamlData[i]['collection title'],
-					description: yamlData[i]['collection description'],
+					description: md.render(yamlData[i]['collection description']),
 					background: backgroundUrl,
 					artworks: [],
 				}
@@ -58,7 +59,7 @@ module.exports = function (eleventyConfig) {
 			artworksCollections.push(
 				{
 					title: yamlData[i]['collection title'],
-					description: yamlData[i]['collection description'],
+					description: md.render(yamlData[i]['collection description']),
 					// background: backgroundUrl,
 					artworks: [],
 				});
@@ -99,7 +100,7 @@ module.exports = function (eleventyConfig) {
 					hash: hash,
 					//url: `/artwork/${this.slug(yamlData[i]['collection artworks'][j]['artworks title'])}-${hash}`,
 					title: yamlData[i]['collection artworks'][j]['artworks title'],
-					description: yamlData[i]['collection artworks'][j]['artworks description'],
+					description: md.render(yamlData[i]['collection artworks'][j]['artworks description']),
 					price: yamlData[i]['collection artworks'][j]['artworks price'],
 					image: {
 						'ratio': metaData.jpeg[2].width / metaData.jpeg[2].height * 100,

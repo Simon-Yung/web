@@ -51,7 +51,7 @@ class Test {
 		return `
 			<div class="galleryPage__introBox">
 				<div class="galleryPage__introBox__background">
-					<p>${item.description.replace(/\n/g, '<br/>')}</p>
+					${item.description}
 				</div>
 				<a class="gallery_button" href="#gallery">
 				<!-- <p>Gallery</p> -->

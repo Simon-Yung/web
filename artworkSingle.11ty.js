@@ -18,8 +18,8 @@ class Test {
 			<div class="galleryPage__introBox">
 				<div class="galleryPage__introBox__background">
 					<h2>${item.title}</h2>
-					<hr/>
-					<p>${item.description.replace(/\n/g, '<br/>')}</p>
+					<!-- <hr/> -->
+					${item.description}
 					<span>${Intl.NumberFormat('fr-FR', { style: 'currency', currency: 'EUR' }).format(item.price)}</span>
 				</div>
 			</a>
