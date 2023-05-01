@@ -38,15 +38,15 @@ Les couleurs et les matières qui constituent son travail sont l’humeur de ses
 &nbsp;
 
 
-Contemporary French artist, modern and abstract painter.
+French contemporary artist, modern and abstract painter.
 
-Born in Paris on February 19, 1966, it is quite naturally that Lichta is based in artistic expression.
+Born in Paris on February 19, 1966, Lichta's artistic expression came naturally .
 
-He knows how to restore his past experiences and encounters that inspired him.  
-His style is lively and expressive, sometimes abstract.  
-Lichta always begins her canvases impulsively.  
+He knows how to recreate the past experiences and encounters which inspired him.  
+His style is lively and expressive, and occasionally abstract.  
+Lichta always starts his paintings spontaneously.  
 His paintings are composed of several moments and evolve.  
-The colors and materials that make up his work are the mood of his moments.  
+The colours and materials making up his work are the mood of the moments.
 
 &nbsp;
 
@@ -59,12 +59,12 @@ The colors and materials that make up his work are the mood of his moments.
 &nbsp;
 
 
-Artista francés contemporáneo, pintor moderno y abstracto.
+Artista contemporáneo francés, pintor moderno y abstracto.
 
-Nacido en París el 19 de febrero de 1966, es muy natural que Lichta se base en la expresión artística.
+Nacido en París el 19 de febrero de 1966, Lichta se dedica con naturalidad a la expresión artística.
 
-Sabe restaurar sus experiencias y encuentros pasados ​​que lo inspiraron.  
+Sabe restituir sus experiencias y encuentros pasados que le inspiraron.  
 Su estilo es vivo y expresivo, a veces abstracto.  
-Lichta siempre comienza sus lienzos impulsivamente.  
-Sus pinturas se componen de varios momentos y evolucionan.  
-Los colores y materiales que componen su obra son el estado de ánimo de sus momentos.  
+Lichta siempre empieza sus cuadros impulsivamente.  
+Sus cuadros se componen de varios momentos y evolucionan.  
+Los colores y materiales que componen su obra son el estado de ánimo de sus momentos.

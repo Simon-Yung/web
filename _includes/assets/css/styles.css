@@ -810,7 +810,7 @@
 	}
 
 	.galleryPage__introBox__background>span {
-		margin-bottom: 1.25rem;
+		margin: 1.25rem 0;
 		color: var(--main-fg-color);
 	}
 
