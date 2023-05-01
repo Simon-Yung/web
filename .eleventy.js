@@ -95,7 +95,8 @@ module.exports = function (eleventyConfig) {
 					{ widths: [400, 1000, 'auto'], formats: ['jpeg'], hashLength: 10, outputDir: `./${outputDir}/img/` }
 				);
 				metaData.jpeg.sort((a, b) => a.width - b.width);
-				const hash = metaData.jpeg[1].filename.slice(0, 10)
+				const hash = metaData.jpeg[1].filename.slice(0, 10);
+				// if (metaData.jpeg[2] === undefined) { console.log(`./_img/${yamlData[i]['collection artworks'][j]['artworks file name']}`, metaData) }
 				const entry = {
 					hash: hash,
 					//url: `/artwork/${this.slug(yamlData[i]['collection artworks'][j]['artworks title'])}-${hash}`,
@@ -104,12 +105,12 @@ module.exports = function (eleventyConfig) {
 					price: yamlData[i]['collection artworks'][j]['artworks price'],
 					link: yamlData[i]['collection artworks'][j]['artworks link'],
 					image: {
-						'ratio': metaData.jpeg[2].width / metaData.jpeg[2].height * 100,
+						'ratio': (metaData.jpeg[0].width) / (metaData.jpeg[0].height) * 100,
 						'small': metaData.jpeg[0].url,
-						'large': metaData.jpeg[1].url,
-						'full': metaData.jpeg[2].url,
+						'large': metaData.jpeg[1] ? metaData.jpeg[1].url : metaData.jpeg[0].url,
+						'full': metaData.jpeg[2] ? metaData.jpeg[2].url : metaData.jpeg[1] ? metaData.jpeg[1].url : metaData.jpeg[0].url,
 					}
-				}
+				};
 				artworksCollections[i].artworks.push(entry);
 				if (!ArtworkMap.has(hash)) {
 					ArtworkMap.set(hash, 0);

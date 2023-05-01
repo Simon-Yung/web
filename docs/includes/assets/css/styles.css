@@ -857,6 +857,14 @@
 		margin: 05px;
 	}
 
+	.gallery__line:last-child>.gallery__line__item:last-child {
+		max-width: 33%;
+	}
+
+	.gallery__line:first-child>.gallery__line__item:first-child {
+		max-width: 100%;
+	}
+
 	/* @media screen and (max-width: 600px) {
 		.gallery {
 			padding: 20px 15px 60px 15px;

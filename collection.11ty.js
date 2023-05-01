@@ -14,7 +14,7 @@ class Test {
 		const item = data.pagination.items[0];
 		let gallery = '';
 		let newLine = 0;
-		const newLineLimit = 320;
+		const newLineLimit = 300;
 		const iteration = item.artworks ? item.artworks.length : -1;
 		for (let i = 0; i < iteration; i++) {
 			newLine += item.artworks[i].image.ratio;
@@ -28,14 +28,13 @@ class Test {
 				<div
 					class="gallery__line__item"
 					style="
-						${i + 1 == iteration ? 'max-width:50%;' : ''}
+						${/*i + 1 == iteration ? 'max-width:50%;' : ''*/''}
 						aspect-ratio:${item.artworks[i].image.ratio / 100};
 						width:${item.artworks[i].image.ratio}px;
 						flex:${item.artworks[i].image.ratio};
 						flex-basis:${item.artworks[i].image.ratio}px;
 						flex-grow:${item.artworks[i].image.ratio};
-						flex-shrink:${item.artworks[i].image.ratio};
-				">
+						flex-shrink:${item.artworks[i].image.ratio};">
 					<img
 						onclick="openModalGallery(${i});// fix this later"
 						data-title="${item.artworks[i].title}"
@@ -43,8 +42,7 @@ class Test {
 						data-src="${data.website.url}${item.artworks[i].image.large}"
 						id="${i}"
 						class="gallery__preview"
-						src="${data.website.url}${item.artworks[i].image.small}
-					">
+						src="${data.website.url}${item.artworks[i].image.small}">
 				</div>`
 		}
 

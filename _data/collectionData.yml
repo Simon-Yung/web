@@ -1,5 +1,5 @@
 - collection title: COLLECTION PREMIÈRE 
-  collection arrière plan: "a/image00005.jpeg"
+  collection arrière plan: "a/image00005.jpg"
   collection description: |
     « ...Etre libre et accepter les couleurs, les matières et les mouvements, leurs appels et, ainsi, pénétrer une autre dimension et lui donner corps et âme, voici ce qui me fonde...Les matières, les couleurs, les matières des couleurs, "agissent" plus dans mon travail que le trait pour définir une forme, un mouvement, une expression...».  
     Ici et là, dans le Travail de Lichta l'on est surpris par ces formes simplifiées, cloisonnées par quelques traits et l'influence des conjugaisons chromatiques.  
@@ -29,149 +29,137 @@
     A veces el artista pone en escena un símbolo, su simbolismo, y de ahí simplifica sus formas, a veces con ironía, siempre con poesía.  
     Este artista es humilde, sencillo, expresivo ¡¡
   collection artworks:
-    - artworks file name: "a/image00005.jpeg"
+    - artworks file name: "a/image00005.jpg"
       artworks price: 1900.00
       artworks link: 
       artworks title: Voyage à New-York
       artworks description: |
+        Acrylique sur Toile Coton sur Châssis  
+        Acrylic on Cotton Canvas on Strecther  
+        Acrilico sobre Tela de Algodón en Bastidor    
+
+        
         20??  
 
         100x100 cm  
-
-        Acrylique sur Toile Coton sur Châssis  
-        /  
-        Acrylic on Cotton Canvas on Strecther  
-        /  
-        Acrilico sobre Tela de Algodón en Bastidor  
-    - artworks file name: "a/image00007.jpeg"
+    - artworks file name: "a/image00007.jpg"
       artworks price: 1900.00
       artworks link: 
       artworks title: Voyage aux pyramides
       artworks description: |
+        Acrylique sur Toile Coton sur Châssis  
+        Acrylic on Cotton Canvas on Strecther  
+        Acrilico sobre Tela de Algodón en Bastidor    
+
+        
         20??  
 
         100x100 cm  
-
-        Acrylique sur Toile Coton sur Châssis  
-        /  
-        Acrylic on Cotton Canvas on Strecther  
-        /  
-        Acrilico sobre Tela de Algodón en Bastidor  
-    - artworks file name: "a/image00008.jpeg"
+    - artworks file name: "a/image00008.jpg"
       artworks price: 1900.00
       artworks link: 
       artworks title: Départ en voyage
       artworks description: |
+        Acrylique sur Toile sur Châssis  
+        Acrylic on Canvas on Strecther  
+        Acrilico sobre Tela en Bastidor    
+
+        
         20??  
 
         100x100 cm  
-
-        Acrylique sur Toile sur Châssis  
-        /  
-        Acrylic on Canvas on Strecther  
-        /  
-        Acrilico sobre Tela en Bastidor  
-    - artworks file name: "a/image00011.jpeg"
+    - artworks file name: "a/image00011.jpg"
       artworks price: 2100.00
       artworks link: 
       artworks title: Femme à lunette
       artworks description: |
+        Acrylique sur Toile Coton sur Châssis avec Plexiglas  
+        Acrylic on Cotton Canvas on Strecther with Plexiglas  
+        Acrilico sobre Tela de Algodón en Bastidor con Metacrilato    
+
+        
         20??  
 
         100x100 cm  
-
-        Acrylique sur Toile Coton sur Châssis avec Plexiglas  
-        /  
-        Acrylic on Cotton Canvas on Strecther with Plexiglas  
-        /  
-        Acrilico sobre Tela de Algodón en Bastidor con Metacrilato  
-    - artworks file name: "a/image00013.jpeg"
+    - artworks file name: "a/image00013.jpg"
       artworks price: 1900.00
       artworks link: 
       artworks title: Retour en enfance
       artworks description: |
+        Acrylique sur Toile sur Châssis avec Plexiglas  
+        Acrylic on Canvas on Strecther with Plexiglas  
+        Acrilico sobre Tela en Bastidor con Metacrilato    
+
+        
         20??  
 
         100x100 cm  
-
-        Acrylique sur Toile sur Châssis avec Plexiglas  
-        /  
-        Acrylic on Canvas on Strecther with Plexiglas  
-        /  
-        Acrilico sobre Tela en Bastidor con Metacrilato  
-    - artworks file name: "a/image00015.jpeg"
+    - artworks file name: "a/image00015.jpg"
       artworks price: 2100.00
       artworks link: 
       artworks title: La femme 3
       artworks description: |
+        Acrylique sur Toile Coton sur Châssis avec Plexiglas  
+        Acrylic on Cotton Canvas on Strecther with Plexiglas  
+        Acrilico sobre Tela de Algodón en Bastidor con Metacrilato    
+
+        
         20??  
 
         100x100 cm  
-
-        Acrylique sur Toile Coton sur Châssis avec Plexiglas  
-        /  
-        Acrylic on Cotton Canvas on Strecther with Plexiglas  
-        /  
-        Acrilico sobre Tela de Algodón en Bastidor con Metacrilato  
-    - artworks file name: "a/image00017.jpeg"
+    - artworks file name: "a/image00017.jpg"
       artworks price: 2900.00
       artworks link: 
       artworks title: La femme 2
       artworks description: |
+        Acrylique sur Toile sur Châssis  
+        Acrylic on Canvas on Strecther  
+        Acrilico sobre Tela en Bastidor con Metacrilato    
+
+        
         20??  
 
         100x100 cm  
-
-        Acrylique sur Toile sur Châssis  
-        /  
-        Acrylic on Canvas on Strecther  
-        /  
-        Acrilico sobre Tela en Bastidor con Metacrilato  
-    - artworks file name: "a/image00019.jpeg"
+    - artworks file name: "a/image00019.jpg"
       artworks price: 2100.00
       artworks link: 
       artworks title: L'enfance
       artworks description: |
+        Acrylique sur Toile Coton sur Châssis avec Plexiglas  
+        Acrylic on Cotton Canvas on Strecther with Plexiglas  
+        Acrilico sobre Tela de Algodón en Bastidor con Metacrilato    
+
+        
         20??  
 
         100x100 cm  
-
-        Acrylique sur Toile Coton sur Châssis avec Plexiglas  
-        /  
-        Acrylic on Cotton Canvas on Strecther with Plexiglas  
-        /  
-        Acrilico sobre Tela de Algodón en Bastidor con Metacrilato  
-    - artworks file name: "a/image00021.jpeg"
+    - artworks file name: "a/image00021.jpg"
       artworks price: 2900.00
       artworks link: 
       artworks title: L'Homme 1
       artworks description: |
+        Acrylique sur Toile sur Châssis  
+        Acrylic on Canvas on Strecther  
+        Acrilico sobre Tela en Bastidor    
+
+        
         20??  
 
         100x100 cm  
-
-        Acrylique sur Toile sur Châssis  
-        /  
-        Acrylic on Canvas on Strecther  
-        /  
-        Acrilico sobre Tela en Bastidor  
-    - artworks file name: "a/image23.jpeg"
+    - artworks file name: "a/image00023.jpg"
       artworks price: 2900.00
       artworks link: 
       artworks title: Voyage aux pyramides
       artworks description: |
+        Acrylique sur Toile sur Châssis  
+        Acrylic on Canvas on Strecther  
+        Acrilico sobre Tela en Bastidor  
+
         20??  
 
         100x100 cm  
-
-        Acrylique sur Toile sur Châssis  
-        /  
-        Acrylic on Canvas on Strecther  
-        /  
-        Acrilico sobre Tela en Bastidor  
-
 - collection title: COLLECTION SECONDE 
-  collection arrière plan: "b/Lichta - Renaissance - 195x130 - 2022 - Acrylique sur Toile 2.jpeg"
+  collection arrière plan: "b/Lichta - Renaissance - 195x130 - 2022 - Acrylique sur Toile 2.jpg"
   collection description: |
     « ...Etre libre et accepter les couleurs, les matières et les mouvements, leurs appels et, ainsi, pénétrer une autre dimension et lui donner corps et âme, voici ce qui me fonde...Les matières, les couleurs, les matières des couleurs, "agissent" plus dans mon travail que le trait pour définir une forme, un mouvement, une expression...».  
     Ici et là, dans le Travail de Lichta l'on est surpris par ces formes simplifiées, cloisonnées par quelques traits et l'influence des conjugaisons chromatiques.  
@@ -201,107 +189,98 @@
     A veces el artista pone en escena un símbolo, su simbolismo, y de ahí simplifica sus formas, a veces con ironía, siempre con poesía.  
     Este artista es humilde, sencillo, expresivo ¡¡
   collection artworks:
-    - artworks file name: "b/image00037.jpeg"
+    - artworks file name: "b/image00037.jpg"
       artworks price: 1600.00
       artworks link: 
       artworks title: Jour de fête
       artworks description: |
+        Acrylique sur Toile Coton sur Châssis  
+        Acrylic on Cotton Canvas on Strecther  
+        Acrilico sobre Tela de Algodón en Bastidor  
+
         20??  
 
         60x80 cm  
-
-        Acrylique sur Toile Coton sur Châssis  
-        /  
-        Acrylic on Cotton Canvas on Strecther  
-        /  
-        Acrilico sobre Tela de Algodón en Bastidor  
-    - artworks file name: "b/Lichta - La Belle Vie 4 - 100x100 - 2022 - Acrylique sur Toile 1.jpeg"
+    - artworks file name: "b/Lichta - La Belle Vie 4 - 100x100 - 2022 - Acrylique sur Toile 1.jpg"
       artworks price: 2100.00
       artworks link: 
       artworks title: La belle vie 4
       artworks description: |
+        Acrylique sur Toile sur Châssis avec Plexiglas  
+        Acrylic on Canvas on Strecther with Plexiglas  
+        Acrilico sobre Tela en Bastidor con Metacrilato  
+
         2022  
 
-        100x100 cm  
+        100x100 cm    
 
-        Acrylique sur Toile sur Châssis avec Plexiglas  
-        /  
-        Acrylic on Canvas on Strecther with Plexiglas  
-        /  
-        Acrilico sobre Tela en Bastidor con Metacrilato  
-    - artworks file name: "b/Lichta - La Savane - 100x100 - 2023 - Acrylique sur Toile, Plexiglas.jpeg"
+        
+    - artworks file name: "b/Lichta - La Savane - 100x100 - 2023 - Acrylique sur Toile, Plexiglas.jpg"
       artworks price: 9999.00
       artworks link: 
       artworks title: La Savane
       artworks description: |
+        Acrylique sur Toile sur Châssis avec Plexiglas  
+        Acrylic on Canvas on Strecther with Plexiglas  
+        Acrilico sobre Tela en Bastidor con Metacrilato  
+
         2023  
 
-        100x100 cm  
+        100x100 cm    
 
-        Acrylique sur Toile sur Châssis avec Plexiglas  
-        /  
-        Acrylic on Canvas on Strecther with Plexiglas  
-        /  
-        Acrilico sobre Tela en Bastidor con Metacrilato  
-    - artworks file name: "b/Lichta - Mon Jardin Eden - 100x100 - 2022 - Acrylique sur Toile 2.jpeg"
+        
+    - artworks file name: "b/Lichta - Mon Jardin Eden - 100x100 - 2022 - Acrylique sur Toile 2.jpg"
       artworks price: 9999.00
       artworks link: 
       artworks title: Mon Jardin Eden
       artworks description: |
+        Acrylique sur Toile sur Châssis  
+        Acrylic on Canvas on Strecther  
+        Acrilico sobre Tela en Bastidor  
+
         2022  
 
         100x100 cm  
-
-        Acrylique sur Toile sur Châssis  
-        /  
-        Acrylic on Canvas on Strecther  
-        /  
-        Acrilico sobre Tela en Bastidor  
-    - artworks file name: "b/Lichta - Renaissance - 195x130 - 2022 - Acrylique sur Toile 2.jpeg"
+    - artworks file name: "b/Lichta - Renaissance - 195x130 - 2022 - Acrylique sur Toile 2.jpg"
       artworks price: 2900.00
       artworks link: 
       artworks title: Renaissance
       artworks description: |
+        Acrylique sur Toile sur Châssis  
+        Acrylic on Canvas on Strecther  
+        Acrilico sobre Tela en Bastidor    
+
+        
         2022  
 
         195x130 cm  
-
-        Acrylique sur Toile sur Châssis  
-        /  
-        Acrylic on Canvas on Strecther  
-        /  
-        Acrilico sobre Tela en Bastidor  
-    - artworks file name: "b/Lichta - Un Nouveau Départ - 100x100 - 2022 - Acrylique sur Toile, Plexiglas 2.jpeg"
+    - artworks file name: "b/Lichta - Un Nouveau Départ - 100x100 - 2022 - Acrylique sur Toile, Plexiglas 2.jpg"
       artworks price: 1900.00
       artworks link: 
       artworks title: Un nouveau départ
       artworks description: |
+        Acrylique sur Toile sur Châssis avec Plexiglas  
+        Acrylic on Canvas on Strecther with Plexiglas  
+        Acrilico sobre Tela en Bastidor con Metacrilato    
+
+        
         2022  
 
         100x100 cm  
-
-        Acrylique sur Toile sur Châssis avec Plexiglas  
-        /  
-        Acrylic on Canvas on Strecther with Plexiglas  
-        /  
-        Acrilico sobre Tela en Bastidor con Metacrilato  
-    - artworks file name: "b/Lichta - Un Nouveau Monde - 195x130 - 2022 - Acrylique sur Toile 1.jpeg"
+    - artworks file name: "b/Lichta - Un Nouveau Monde - 195x130 - 2022 - Acrylique sur Toile 1.jpg"
       artworks price: 3200.00
       artworks link: 
       artworks title: Un nouveau Monde
       artworks description: |
+        Acrylique sur Toile sur Châssis avec Plexiglas  
+        Acrylic on Canvas on Strecther with Plexiglas  
+        Acrilico sobre Tela en Bastidor con Metacrilato  
+
         2022  
 
         195x130 cm  
-
-        Acrylique sur Toile sur Châssis avec Plexiglas  
-        /  
-        Acrylic on Canvas on Strecther with Plexiglas  
-        /  
-        Acrilico sobre Tela en Bastidor con Metacrilato  
-
 - collection title: COLLECTION TROISIÈME 
-  collection arrière plan: "c2/-image00013.jpeg"
+  collection arrière plan: "c2/-image00013.jpg"
   collection description: |
     « ...Etre libre et accepter les couleurs, les matières et les mouvements, leurs appels et, ainsi, pénétrer une autre dimension et lui donner corps et âme, voici ce qui me fonde...Les matières, les couleurs, les matières des couleurs, "agissent" plus dans mon travail que le trait pour définir une forme, un mouvement, une expression...».  
     Ici et là, dans le Travail de Lichta l'on est surpris par ces formes simplifiées, cloisonnées par quelques traits et l'influence des conjugaisons chromatiques.  
@@ -331,91 +310,84 @@
     A veces el artista pone en escena un símbolo, su simbolismo, y de ahí simplifica sus formas, a veces con ironía, siempre con poesía.  
     Este artista es humilde, sencillo, expresivo ¡¡
   collection artworks:
-    - artworks file name: "c2/-image00005.jpeg"
+    - artworks file name: "c2/-image00005.jpg"
       artworks price: 2100.00
       artworks link: 
       artworks title: Majorelle
       artworks description: |
+        Acrylique sur Toile sur Châssis avec Plexiglas  
+        Acrylic on Canvas on Strecther with Plexiglas  
+        Acrilico sobre Tela en Bastidor con Metacrilato    
+
+        
         20??  
 
         100x100 cm  
-
-        Acrylique sur Toile sur Châssis avec Plexiglas  
-        /  
-        Acrylic on Canvas on Strecther with Plexiglas  
-        /  
-        Acrilico sobre Tela en Bastidor con Metacrilato  
-    - artworks file name: "c2/-image00006.jpeg"
+    - artworks file name: "c2/-image00006.jpg"
       artworks price: 2100.00
       artworks link: 
       artworks title: Carré magique 1
       artworks description: |
+        Acrylique sur Toile sur Châssis avec Plexiglas  
+        Acrylic on Canvas on Strecther with Plexiglas  
+        Acrilico sobre Tela en Bastidor con Metacrilato    
+
+        
         20??  
 
         100x100 cm  
-
-        Acrylique sur Toile sur Châssis avec Plexiglas  
-        /  
-        Acrylic on Canvas on Strecther with Plexiglas  
-        /  
-        Acrilico sobre Tela en Bastidor con Metacrilato  
-    - artworks file name: "c2/-image00009.jpeg"
+    - artworks file name: "c2/-image00009.jpg"
       artworks price: 2100.00
       artworks link: 
       artworks title: Carré magique 2
       artworks description: |
+        Acrylique sur Toile sur Châssis avec Plexiglas  
+        Acrylic on Canvas on Strecther with Plexiglas  
+        Acrilico sobre Tela en Bastidor con Metacrilato    
+
+        
         20??  
 
         100x100 cm  
-
-        Acrylique sur Toile sur Châssis avec Plexiglas  
-        /  
-        Acrylic on Canvas on Strecther with Plexiglas  
-        /  
-        Acrilico sobre Tela en Bastidor con Metacrilato  
-    - artworks file name: "c2/-image00011.jpeg"
+    - artworks file name: "c2/-image00011.jpg"
       artworks price: 2100.00
       artworks link: 
       artworks title: l'éclaircie
       artworks description: |
+        Acrylique sur Toile sur Châssis avec Plexiglas  
+        Acrylic on Canvas on Strecther with Plexiglas  
+        Acrilico sobre Tela en Bastidor con Metacrilato    
+
+        
         20??  
 
         100x100 cm  
-
-        Acrylique sur Toile sur Châssis avec Plexiglas  
-        /  
-        Acrylic on Canvas on Strecther with Plexiglas  
-        /  
-        Acrilico sobre Tela en Bastidor con Metacrilato  
-    - artworks file name: "c2/-image00013.jpeg"
+    - artworks file name: "c2/-image00013.jpg"
       artworks price: 2900.00
       artworks link: 
       artworks title: Lesotho 1
       artworks description: |
+        Acrylique sur Toile Coton sur Châssis avec Plexiglas  
+        Acrylic on Cotton Canvas on Strecther with Plexiglas  
+        Acrilico sobre Tela de Algodón en Bastidor con Metacrilato    
+
+        
         20??  
 
         100x100 cm  
-
-        Acrylique sur Toile Coton sur Châssis avec Plexiglas  
-        /  
-        Acrylic on Cotton Canvas on Strecther with Plexiglas  
-        /  
-        Acrilico sobre Tela de Algodón en Bastidor con Metacrilato  
-    - artworks file name: "c2/-image00029.jpeg"
+    - artworks file name: "c2/image00029.jpg"
       artworks price: 2100.00
       artworks link: 
       artworks title: Carré magique 3
       artworks description: |
+        Acrylique sur Toile sur Châssis avec Plexiglas  
+        Acrylic on Canvas on Strecther with Plexiglas  
+        Acrilico sobre Tela en Bastidor con Metacrilato  
+
         20??  
 
         100x100 cm  
-
-        Acrylique sur Toile sur Châssis avec Plexiglas  
-        /  
-        Acrylic on Canvas on Strecther with Plexiglas  
-        /  
-        Acrilico sobre Tela en Bastidor con Metacrilato  
-    # - artworks file name: "a/______.jpeg"
+    # - artworks file name: "a/______.jpg"
     #   artworks price: 9999.00
     #   artworks link: 
     #   artworks title: Leeeeeee
@@ -428,4 +400,384 @@
     #     /  
     #     Acrylic on Cotton Canvas on Strecther with Plexiglas  
     #     /  
-    #     Acrilico sobre Tela de Algodón en Bastidor con Metacrilato  
+    #     Acrilico sobre Tela de Algodón en Bastidor con Metacrilato    
+
+        
+    - artworks file name: "c/image00003.jpg"
+      artworks price: 9999.00
+      artworks link: 
+      artworks title: Lorem Ipsum
+      artworks description: |
+        Acrylique sur Toile Coton sur Châssis avec Plexiglas  
+        Acrylic on Cotton Canvas on Strecther with Plexiglas  
+        Acrilico sobre Tela de Algodón en Bastidor con Metacrilato    
+
+        
+        20??  
+
+        100x100 cm  
+    - artworks file name: "c/-image00003.jpg"
+      artworks price: 9999.00
+      artworks link: 
+      artworks title: Lorem Ipsum
+      artworks description: |
+        Acrylique sur Toile Coton sur Châssis avec Plexiglas  
+        Acrylic on Cotton Canvas on Strecther with Plexiglas  
+        Acrilico sobre Tela de Algodón en Bastidor con Metacrilato    
+
+        
+        20??  
+
+        100x100 cm  
+    - artworks file name: "c/-image00004.jpg"
+      artworks price: 9999.00
+      artworks link: 
+      artworks title: Lorem Ipsum
+      artworks description: |
+        Acrylique sur Toile Coton sur Châssis avec Plexiglas  
+        Acrylic on Cotton Canvas on Strecther with Plexiglas  
+        Acrilico sobre Tela de Algodón en Bastidor con Metacrilato    
+
+        
+        20??  
+
+        100x100 cm  
+    - artworks file name: "c/-image00007.jpg"
+      artworks price: 9999.00
+      artworks link: 
+      artworks title: Lorem Ipsum
+      artworks description: |
+        Acrylique sur Toile Coton sur Châssis avec Plexiglas  
+        Acrylic on Cotton Canvas on Strecther with Plexiglas  
+        Acrilico sobre Tela de Algodón en Bastidor con Metacrilato    
+
+        
+        20??  
+
+        100x100 cm  
+    - artworks file name: "c/-image00008.jpg"
+      artworks price: 9999.00
+      artworks link: 
+      artworks title: Lorem Ipsum
+      artworks description: |
+        Acrylique sur Toile Coton sur Châssis avec Plexiglas  
+        Acrylic on Cotton Canvas on Strecther with Plexiglas  
+        Acrilico sobre Tela de Algodón en Bastidor con Metacrilato    
+
+        
+        20??  
+
+        100x100 cm  
+    - artworks file name: "c/-image00010.jpg"
+      artworks price: 9999.00
+      artworks link: 
+      artworks title: Lorem Ipsum
+      artworks description: |
+        Acrylique sur Toile Coton sur Châssis avec Plexiglas  
+        Acrylic on Cotton Canvas on Strecther with Plexiglas  
+        Acrilico sobre Tela de Algodón en Bastidor con Metacrilato    
+
+        
+        20??  
+
+        100x100 cm  
+    - artworks file name: "c/-image00012.jpg"
+      artworks price: 9999.00
+      artworks link: 
+      artworks title: Lorem Ipsum
+      artworks description: |
+        Acrylique sur Toile Coton sur Châssis avec Plexiglas  
+        Acrylic on Cotton Canvas on Strecther with Plexiglas  
+        Acrilico sobre Tela de Algodón en Bastidor con Metacrilato    
+
+        
+        20??  
+
+        100x100 cm  
+
+    - artworks file name: "c/image00014.jpg"
+      artworks price: 9999.00
+      artworks link: 
+      artworks title: Lorem Ipsum
+      artworks description: |
+        Acrylique sur Toile Coton sur Châssis avec Plexiglas  
+        Acrylic on Cotton Canvas on Strecther with Plexiglas  
+        Acrilico sobre Tela de Algodón en Bastidor con Metacrilato    
+
+        
+        20??  
+
+        100x100 cm  
+    - artworks file name: "c/-image00015.jpg"
+      artworks price: 9999.00
+      artworks link: 
+      artworks title: Lorem Ipsum
+      artworks description: |
+        Acrylique sur Toile Coton sur Châssis avec Plexiglas  
+        Acrylic on Cotton Canvas on Strecther with Plexiglas  
+        Acrilico sobre Tela de Algodón en Bastidor con Metacrilato    
+
+        
+        20??  
+
+        100x100 cm  
+    - artworks file name: "c/-image00017.jpg"
+      artworks price: 9999.00
+      artworks link: 
+      artworks title: Lorem Ipsum
+      artworks description: |
+        Acrylique sur Toile Coton sur Châssis avec Plexiglas  
+        Acrylic on Cotton Canvas on Strecther with Plexiglas  
+        Acrilico sobre Tela de Algodón en Bastidor con Metacrilato    
+
+        
+        20??  
+
+        100x100 cm
+    - artworks file name: "c/-image00023.jpg"
+      artworks price: 9999.00
+      artworks link: 
+      artworks title: Lorem Ipsum
+      artworks description: |
+        Acrylique sur Toile Coton sur Châssis avec Plexiglas  
+        Acrylic on Cotton Canvas on Strecther with Plexiglas  
+        Acrilico sobre Tela de Algodón en Bastidor con Metacrilato    
+
+        
+        20??  
+
+        100x100 cm  
+    - artworks file name: "c/-image00024.jpg"
+      artworks price: 9999.00
+      artworks link: 
+      artworks title: Lorem Ipsum
+      artworks description: |
+        Acrylique sur Toile Coton sur Châssis avec Plexiglas  
+        Acrylic on Cotton Canvas on Strecther with Plexiglas  
+        Acrilico sobre Tela de Algodón en Bastidor con Metacrilato    
+
+        
+        20??  
+
+        100x100 cm  
+    - artworks file name: "c/image00026.jpg"
+      artworks price: 9999.00
+      artworks link: 
+      artworks title: Lorem Ipsum
+      artworks description: |
+        Acrylique sur Toile Coton sur Châssis avec Plexiglas  
+        Acrylic on Cotton Canvas on Strecther with Plexiglas  
+        Acrilico sobre Tela de Algodón en Bastidor con Metacrilato    
+
+        
+        20??  
+
+        100x100 cm  
+    - artworks file name: "c/-image00027.jpg"
+      artworks price: 9999.00
+      artworks link: 
+      artworks title: Lorem Ipsum
+      artworks description: |
+        Acrylique sur Toile Coton sur Châssis avec Plexiglas  
+        Acrylic on Cotton Canvas on Strecther with Plexiglas  
+        Acrilico sobre Tela de Algodón en Bastidor con Metacrilato    
+
+        
+        20??  
+
+        100x100 cm  
+    - artworks file name: "c/image00028.jpg"
+      artworks price: 9999.00
+      artworks link: 
+      artworks title: Lorem Ipsum
+      artworks description: |
+        Acrylique sur Toile Coton sur Châssis avec Plexiglas  
+        Acrylic on Cotton Canvas on Strecther with Plexiglas  
+        Acrilico sobre Tela de Algodón en Bastidor con Metacrilato    
+
+        
+        20??  
+
+        100x100 cm  
+    - artworks file name: "c/-image00029.jpg"
+      artworks price: 9999.00
+      artworks link: 
+      artworks title: Lorem Ipsum
+      artworks description: |
+        Acrylique sur Toile Coton sur Châssis avec Plexiglas  
+        Acrylic on Cotton Canvas on Strecther with Plexiglas  
+        Acrilico sobre Tela de Algodón en Bastidor con Metacrilato    
+
+        
+        20??  
+
+        100x100 cm  
+    - artworks file name: "c/image00030.jpg"
+      artworks price: 9999.00
+      artworks link: 
+      artworks title: Lorem Ipsum
+      artworks description: |
+        Acrylique sur Toile Coton sur Châssis avec Plexiglas  
+        Acrylic on Cotton Canvas on Strecther with Plexiglas  
+        Acrilico sobre Tela de Algodón en Bastidor con Metacrilato    
+
+        
+        20??  
+
+        100x100 cm  
+    - artworks file name: "c/-image00030.jpg"
+      artworks price: 9999.00
+      artworks link: 
+      artworks title: Lorem Ipsum
+      artworks description: |
+        Acrylique sur Toile Coton sur Châssis avec Plexiglas  
+        Acrylic on Cotton Canvas on Strecther with Plexiglas  
+        Acrilico sobre Tela de Algodón en Bastidor con Metacrilato    
+
+        
+        20??  
+
+        100x100 cm  
+    - artworks file name: "c/-image00031.jpg"
+      artworks price: 9999.00
+      artworks link: 
+      artworks title: Lorem Ipsum
+      artworks description: |
+        Acrylique sur Toile Coton sur Châssis avec Plexiglas  
+        Acrylic on Cotton Canvas on Strecther with Plexiglas  
+        Acrilico sobre Tela de Algodón en Bastidor con Metacrilato    
+
+        
+        20??  
+
+        100x100 cm  
+    - artworks file name: "c/image00032.jpg"
+      artworks price: 9999.00
+      artworks link: 
+      artworks title: Lorem Ipsum
+      artworks description: |
+        Acrylique sur Toile Coton sur Châssis avec Plexiglas  
+        Acrylic on Cotton Canvas on Strecther with Plexiglas  
+        Acrilico sobre Tela de Algodón en Bastidor con Metacrilato    
+
+        
+        20??  
+
+        100x100 cm  
+    - artworks file name: "c/-image00032.jpg"
+      artworks price: 9999.00
+      artworks link: 
+      artworks title: Lorem Ipsum
+      artworks description: |
+        Acrylique sur Toile Coton sur Châssis avec Plexiglas  
+        Acrylic on Cotton Canvas on Strecther with Plexiglas  
+        Acrilico sobre Tela de Algodón en Bastidor con Metacrilato    
+
+        
+        20??  
+
+        100x100 cm  
+    - artworks file name: "c/image00033.jpg"
+      artworks price: 9999.00
+      artworks link: 
+      artworks title: Lorem Ipsum
+      artworks description: |
+        Acrylique sur Toile Coton sur Châssis avec Plexiglas  
+        Acrylic on Cotton Canvas on Strecther with Plexiglas  
+        Acrilico sobre Tela de Algodón en Bastidor con Metacrilato    
+
+        
+        20??  
+
+        100x100 cm  
+    - artworks file name: "c/-image00033.jpg"
+      artworks price: 9999.00
+      artworks link: 
+      artworks title: Lorem Ipsum
+      artworks description: |
+        Acrylique sur Toile Coton sur Châssis avec Plexiglas  
+        Acrylic on Cotton Canvas on Strecther with Plexiglas  
+        Acrilico sobre Tela de Algodón en Bastidor con Metacrilato    
+
+        
+        20??  
+
+        100x100 cm  
+    - artworks file name: "c/-image00034.jpg"
+      artworks price: 9999.00
+      artworks link: 
+      artworks title: Lorem Ipsum
+      artworks description: |
+        Acrylique sur Toile Coton sur Châssis avec Plexiglas  
+        Acrylic on Cotton Canvas on Strecther with Plexiglas  
+        Acrilico sobre Tela de Algodón en Bastidor con Metacrilato    
+
+        
+        20??  
+
+        100x100 cm  
+    - artworks file name: "c/image00035.jpg"
+      artworks price: 9999.00
+      artworks link: 
+      artworks title: Lorem Ipsum
+      artworks description: |
+        Acrylique sur Toile Coton sur Châssis avec Plexiglas  
+        Acrylic on Cotton Canvas on Strecther with Plexiglas  
+        Acrilico sobre Tela de Algodón en Bastidor con Metacrilato    
+
+        
+        20??  
+
+        100x100 cm  
+    - artworks file name: "c/-image00035.jpg"
+      artworks price: 9999.00
+      artworks link: 
+      artworks title: Lorem Ipsum
+      artworks description: |
+        Acrylique sur Toile Coton sur Châssis avec Plexiglas  
+        Acrylic on Cotton Canvas on Strecther with Plexiglas  
+        Acrilico sobre Tela de Algodón en Bastidor con Metacrilato    
+
+        
+        20??  
+
+        100x100 cm  
+    - artworks file name: "c/image00039.jpg"
+      artworks price: 9999.00
+      artworks link: 
+      artworks title: Lorem Ipsum
+      artworks description: |
+        Acrylique sur Toile Coton sur Châssis avec Plexiglas  
+        Acrylic on Cotton Canvas on Strecther with Plexiglas  
+        Acrilico sobre Tela de Algodón en Bastidor con Metacrilato    
+
+        
+        20??  
+
+        100x100 cm  
+    - artworks file name: "c/image00041.jpg"
+      artworks price: 9999.00
+      artworks link: 
+      artworks title: Lorem Ipsum
+      artworks description: |
+        Acrylique sur Toile Coton sur Châssis avec Plexiglas  
+        Acrylic on Cotton Canvas on Strecther with Plexiglas  
+        Acrilico sobre Tela de Algodón en Bastidor con Metacrilato    
+
+        
+        20??  
+
+        100x100 cm  
+    - artworks file name: "c/image00042.jpg"
+      artworks price: 9999.00
+      artworks link: 
+      artworks title: Lorem Ipsum
+      artworks description: |
+        Acrylique sur Toile Coton sur Châssis avec Plexiglas  
+        Acrylic on Cotton Canvas on Strecther with Plexiglas  
+        Acrilico sobre Tela de Algodón en Bastidor con Metacrilato    
+
+        
+        20??  
+
+        100x100 cm  
