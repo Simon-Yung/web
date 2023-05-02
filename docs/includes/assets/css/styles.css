@@ -859,13 +859,17 @@
 		margin: 05px;
 	}
 
-	.gallery__line:last-child>.gallery__line__item:last-child {
+	.gallery__line__item--last {
+		max-width: 33%;
+	}
+
+	/* .gallery__line:last-child>.gallery__line__item:last-child {
 		max-width: 33%;
 	}
 
 	.gallery__line:first-child>.gallery__line__item:first-child {
 		max-width: 100%;
-	}
+	} */
 
 	/* @media screen and (max-width: 600px) {
 		.gallery {
@@ -1071,6 +1075,7 @@ video{
 	}
 
 	.buyButton {
+		margin: 1rem 0;
 		position: relative;
 		padding-left: 2rem;
 	}

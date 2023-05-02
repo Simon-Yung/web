@@ -22,7 +22,7 @@ class Test {
 					${item.description}
 					${item.link ? `<a class="buyButton" href="${item.link}" target="${'_blank'}">` : ''}
 						<span class="productPrice">${Intl.NumberFormat('fr-FR', { style: 'currency', currency: 'EUR' }).format(item.price)}</span>
-					${item.link ? ` - ${item.link.replace(/https?:\/\/(www.)?/i, '').replace(/\/$/, '')}</a>` : ''}
+					${item.link ? ` - ${item.link.replace(/https?:\/\/(www.)?/i, 'www.').replace(/\/.*$/, '')}</a>` : ''}
 				</div>
 			</div>
 			<div id="gallery" class="gallery"><!-- data-scaling-ratio="${0}" data-buy-text="${0}" data-request-text="${0}"-->

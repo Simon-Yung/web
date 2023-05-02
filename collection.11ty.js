@@ -26,9 +26,8 @@ class Test {
 			}
 			gallery += `
 				<div
-					class="gallery__line__item"
+					class="gallery__line__item ${i + 1 == item.artworks.length && i != 0 && newLine == 0 ? 'gallery__line__item--last' : ''}"
 					style="
-						${/*i + 1 == iteration ? 'max-width:50%;' : ''*/''}
 						aspect-ratio:${item.artworks[i].image.ratio / 100};
 						width:${item.artworks[i].image.ratio}px;
 						flex:${item.artworks[i].image.ratio};
