@@ -834,7 +834,8 @@
 		/* padding: 20px 55px 60px 55px; */
 		/*60-5 px*/
 		width: 100%;
-		max-width: 950px;
+		max-width: 90%;
+		/*950px*/
 		display: flex;
 		flex-direction: column;
 		flex-wrap: nowrap;
@@ -844,7 +845,8 @@
 
 	.gallery__line {
 		width: 100%;
-		max-width: 950px;
+		/* max-width: 90%;
+		/*950px*/
 		display: flex;
 		flex-direction: row;
 		flex-wrap: nowrap;

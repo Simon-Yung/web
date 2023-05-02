@@ -1,4 +1,4 @@
-- collection title: COLLECTION PREMIÈRE 
+- collection title: SYMBOLISME ET COULEUR 
   collection arrière plan: "a/image00005.jpg"
   collection description: |
     « ...Etre libre et accepter les couleurs, les matières et les mouvements, leurs appels et, ainsi, pénétrer une autre dimension et lui donner corps et âme, voici ce qui me fonde...Les matières, les couleurs, les matières des couleurs, "agissent" plus dans mon travail que le trait pour définir une forme, un mouvement, une expression...».  
@@ -29,6 +29,19 @@
     A veces el artista pone en escena un símbolo, su simbolismo, y de ahí simplifica sus formas, a veces con ironía, siempre con poesía.  
     Este artista es humilde, sencillo, expresivo ¡¡
   collection artworks:
+    - artworks file name: "a/image00008.jpg"
+      artworks price: 1900.00
+      artworks link: 
+      artworks title: Départ en voyage
+      artworks description: |
+        Acrylique sur Toile sur Châssis  
+        Acrylic on Canvas on Strecther  
+        Acrilico sobre Tela en Bastidor    
+
+        
+        20??  
+
+        100x100 cm  
     - artworks file name: "a/image00005.jpg"
       artworks price: 1900.00
       artworks link: 
@@ -55,75 +68,10 @@
         20??  
 
         100x100 cm  
-    - artworks file name: "a/image00008.jpg"
-      artworks price: 1900.00
-      artworks link: 
-      artworks title: Départ en voyage
-      artworks description: |
-        Acrylique sur Toile sur Châssis  
-        Acrylic on Canvas on Strecther  
-        Acrilico sobre Tela en Bastidor    
-
-        
-        20??  
-
-        100x100 cm  
     - artworks file name: "a/image00011.jpg"
       artworks price: 2100.00
       artworks link: 
       artworks title: Femme à lunette
-      artworks description: |
-        Acrylique sur Toile Coton sur Châssis avec Plexiglas  
-        Acrylic on Cotton Canvas on Strecther with Plexiglas  
-        Acrilico sobre Tela de Algodón en Bastidor con Metacrilato    
-
-        
-        20??  
-
-        100x100 cm  
-    - artworks file name: "a/image00013.jpg"
-      artworks price: 1900.00
-      artworks link: 
-      artworks title: Retour en enfance
-      artworks description: |
-        Acrylique sur Toile sur Châssis avec Plexiglas  
-        Acrylic on Canvas on Strecther with Plexiglas  
-        Acrilico sobre Tela en Bastidor con Metacrilato    
-
-        
-        20??  
-
-        100x100 cm  
-    - artworks file name: "a/image00015.jpg"
-      artworks price: 2100.00
-      artworks link: 
-      artworks title: La femme 3
-      artworks description: |
-        Acrylique sur Toile Coton sur Châssis avec Plexiglas  
-        Acrylic on Cotton Canvas on Strecther with Plexiglas  
-        Acrilico sobre Tela de Algodón en Bastidor con Metacrilato    
-
-        
-        20??  
-
-        100x100 cm  
-    - artworks file name: "a/image00017.jpg"
-      artworks price: 2900.00
-      artworks link: 
-      artworks title: La femme 2
-      artworks description: |
-        Acrylique sur Toile sur Châssis  
-        Acrylic on Canvas on Strecther  
-        Acrilico sobre Tela en Bastidor con Metacrilato    
-
-        
-        20??  
-
-        100x100 cm  
-    - artworks file name: "a/image00019.jpg"
-      artworks price: 2100.00
-      artworks link: 
-      artworks title: L'enfance
       artworks description: |
         Acrylique sur Toile Coton sur Châssis avec Plexiglas  
         Acrylic on Cotton Canvas on Strecther with Plexiglas  
@@ -149,7 +97,7 @@
     - artworks file name: "a/image00023.jpg"
       artworks price: 2900.00
       artworks link: 
-      artworks title: Voyage aux pyramides
+      artworks title: La femme 1
       artworks description: |
         Acrylique sur Toile sur Châssis  
         Acrylic on Canvas on Strecther  
@@ -158,7 +106,59 @@
         20??  
 
         100x100 cm  
-- collection title: COLLECTION SECONDE 
+    - artworks file name: "a/image00017.jpg"
+      artworks price: 2900.00
+      artworks link: 
+      artworks title: La femme 2
+      artworks description: |
+        Acrylique sur Toile sur Châssis  
+        Acrylic on Canvas on Strecther  
+        Acrilico sobre Tela en Bastidor con Metacrilato    
+
+        
+        20??  
+
+        100x100 cm  
+    - artworks file name: "a/image00015.jpg"
+      artworks price: 2100.00
+      artworks link: 
+      artworks title: La femme 3
+      artworks description: |
+        Acrylique sur Toile Coton sur Châssis avec Plexiglas  
+        Acrylic on Cotton Canvas on Strecther with Plexiglas  
+        Acrilico sobre Tela de Algodón en Bastidor con Metacrilato    
+
+        
+        20??  
+
+        100x100 cm  
+    - artworks file name: "a/image00019.jpg"
+      artworks price: 2100.00
+      artworks link: 
+      artworks title: L'enfance
+      artworks description: |
+        Acrylique sur Toile Coton sur Châssis avec Plexiglas  
+        Acrylic on Cotton Canvas on Strecther with Plexiglas  
+        Acrilico sobre Tela de Algodón en Bastidor con Metacrilato    
+
+        
+        20??  
+
+        100x100 cm  
+    - artworks file name: "a/image00013.jpg"
+      artworks price: 1900.00
+      artworks link: 
+      artworks title: Retour en enfance
+      artworks description: |
+        Acrylique sur Toile sur Châssis avec Plexiglas  
+        Acrylic on Canvas on Strecther with Plexiglas  
+        Acrilico sobre Tela en Bastidor con Metacrilato    
+
+        
+        20??  
+
+        100x100 cm  
+- collection title: COULEURS ET EXPRESSIONS 
   collection arrière plan: "b/Lichta - Renaissance - 195x130 - 2022 - Acrylique sur Toile 2.jpg"
   collection description: |
     « ...Etre libre et accepter les couleurs, les matières et les mouvements, leurs appels et, ainsi, pénétrer une autre dimension et lui donner corps et âme, voici ce qui me fonde...Les matières, les couleurs, les matières des couleurs, "agissent" plus dans mon travail que le trait pour définir une forme, un mouvement, une expression...».  
@@ -279,7 +279,7 @@
         2022  
 
         195x130 cm  
-- collection title: COLLECTION TROISIÈME 
+- collection title: ABSTRACTION ET COULEURS 
   collection arrière plan: "c2/-image00013.jpg"
   collection description: |
     « ...Etre libre et accepter les couleurs, les matières et les mouvements, leurs appels et, ainsi, pénétrer une autre dimension et lui donner corps et âme, voici ce qui me fonde...Les matières, les couleurs, les matières des couleurs, "agissent" plus dans mon travail que le trait pour définir une forme, un mouvement, une expression...».  
@@ -310,19 +310,6 @@
     A veces el artista pone en escena un símbolo, su simbolismo, y de ahí simplifica sus formas, a veces con ironía, siempre con poesía.  
     Este artista es humilde, sencillo, expresivo ¡¡
   collection artworks:
-    - artworks file name: "c2/-image00005.jpg"
-      artworks price: 2100.00
-      artworks link: 
-      artworks title: Majorelle
-      artworks description: |
-        Acrylique sur Toile sur Châssis avec Plexiglas  
-        Acrylic on Canvas on Strecther with Plexiglas  
-        Acrilico sobre Tela en Bastidor con Metacrilato    
-
-        
-        20??  
-
-        100x100 cm  
     - artworks file name: "c2/-image00006.jpg"
       artworks price: 2100.00
       artworks link: 
@@ -340,6 +327,31 @@
       artworks price: 2100.00
       artworks link: 
       artworks title: Carré magique 2
+      artworks description: |
+        Acrylique sur Toile sur Châssis avec Plexiglas  
+        Acrylic on Canvas on Strecther with Plexiglas  
+        Acrilico sobre Tela en Bastidor con Metacrilato    
+
+        
+        20??  
+
+        100x100 cm  
+    - artworks file name: "c2/image00029.jpg"
+      artworks price: 2100.00
+      artworks link: 
+      artworks title: Carré magique 3
+      artworks description: |
+        Acrylique sur Toile sur Châssis avec Plexiglas  
+        Acrylic on Canvas on Strecther with Plexiglas  
+        Acrilico sobre Tela en Bastidor con Metacrilato  
+
+        20??  
+
+        100x100 cm  
+    - artworks file name: "c2/-image00005.jpg"
+      artworks price: 2100.00
+      artworks link: 
+      artworks title: Majorelle
       artworks description: |
         Acrylique sur Toile sur Châssis avec Plexiglas  
         Acrylic on Canvas on Strecther with Plexiglas  
@@ -372,18 +384,6 @@
         Acrilico sobre Tela de Algodón en Bastidor con Metacrilato    
 
         
-        20??  
-
-        100x100 cm  
-    - artworks file name: "c2/image00029.jpg"
-      artworks price: 2100.00
-      artworks link: 
-      artworks title: Carré magique 3
-      artworks description: |
-        Acrylique sur Toile sur Châssis avec Plexiglas  
-        Acrylic on Canvas on Strecther with Plexiglas  
-        Acrilico sobre Tela en Bastidor con Metacrilato  
-
         20??  
 
         100x100 cm  

@@ -14,7 +14,7 @@ class Test {
 		const item = data.pagination.items[0];
 		let gallery = '';
 		let newLine = 0;
-		const newLineLimit = 300;
+		const newLineLimit = 290;
 		const iteration = item.artworks ? item.artworks.length : -1;
 		for (let i = 0; i < iteration; i++) {
 			newLine += item.artworks[i].image.ratio;

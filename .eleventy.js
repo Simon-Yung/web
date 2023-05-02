@@ -88,11 +88,11 @@ module.exports = function (eleventyConfig) {
 
 				Image(
 					`./_img/${yamlData[i]['collection artworks'][j]['artworks file name']}`,
-					{ widths: [400, 1000, 'auto'], formats: ['jpeg'], outputDir: `./${outputDir}/img/` }
+					{ widths: [600, 1000, 'auto'], formats: ['jpeg'], outputDir: `./${outputDir}/img/` }
 				);
 				let metaData = Image.statsSync(
 					`./_img/${yamlData[i]['collection artworks'][j]['artworks file name']}`,
-					{ widths: [400, 1000, 'auto'], formats: ['jpeg'], hashLength: 10, outputDir: `./${outputDir}/img/` }
+					{ widths: [600, 1000, 'auto'], formats: ['jpeg'], hashLength: 10, outputDir: `./${outputDir}/img/` }
 				);
 				metaData.jpeg.sort((a, b) => a.width - b.width);
 				const hash = metaData.jpeg[1].filename.slice(0, 10);
