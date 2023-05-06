@@ -1,10 +1,12 @@
 	/*whole website */
 	:root {
-		--main-bg-color: #161515;
-		--sec-bg-color: #2d2b29;
+		--main-bg-color: #121212;
+		--sec-bg-color: #333333;
 
-		--sec-fg-color: #a49d90;
-		--main-fg-color: #FFFCF2;
+		--sec-fg-color: #adadad;
+		--main-fg-color: #ffffff;
+
+		--translucent-color: #ffffff0f;
 
 		--accent-color: #f59631;
 		--link-color: #9a6bfd;
@@ -800,7 +802,7 @@
 		display: flex;
 		justify-content: flex-start;
 		flex-direction: column;
-		background-color: #00000033;
+		background-color: var(--translucent-color);
 	}
 
 	.galleryPage__introBox__background>p {
@@ -871,11 +873,20 @@
 		max-width: 100%;
 	} */
 
-	/* @media screen and (max-width: 600px) {
-		.gallery {
-			padding: 20px 15px 60px 15px;
+	@media screen and (max-width: 600px) {
+		.gallery__line {
+			flex-direction: column;
 		}
-	} */
+
+		.gallery__line__item {
+			width: 100% !important;
+		}
+
+
+		.gallery__line__item--last {
+			max-width: 100%;
+		}
+	}
 
 	@keyframes fade_in {
 		0% {
