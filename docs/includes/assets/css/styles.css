@@ -658,6 +658,7 @@
 	.landingPage {
 		width: 100%;
 		/* min-height: 100vh; */
+		height: 100vh;
 		display: flex;
 		align-items: center;
 		justify-content: center;
@@ -726,7 +727,7 @@
 	}
 
 	/*----------------------home page----------------------*/
-	.homePage {
+	.home_page {
 		width: 100%;
 		/* min-height: 100vh; */
 		display: flex;
@@ -735,7 +736,7 @@
 		justify-content: flex-start;
 		align-items: center;
 		background-color: var(--main-bg-color);
-		;
+		/*min-height: 200vh;*/
 		/*#f4f1df;*/
 	}
 
