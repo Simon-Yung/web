@@ -2,7 +2,7 @@ class Test {
 	data() {
 		return {
 			layout: 'home.njk',
-			permalink: function (data) { return `/collection/` }
+			permalink: function (data) { return `/` }
 		};
 	}
 
