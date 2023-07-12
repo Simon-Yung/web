@@ -40,8 +40,8 @@
 
     #     60x80 cm  
     - artworks file name: "b/Lichta - Cercle de Jouvence - 100x100 - 2022 - Acrylique sur Toile.jpg"
-      artworks price: 2100.00
-      artworks link: 
+      artworks price: 2800.00
+      artworks link: https://www.artsper.com/oeuvres-d-art-contemporain/peinture/1971303/cercle-de-jouvence
       artworks title: Cercle de Jouvence
       artworks description: |
         Acrylique sur Toile de Coton sur Châssis avec Plexiglas  
@@ -75,21 +75,21 @@
     #     2022  
 
     #     195x130 cm
-    - artworks file name: "b/Lichta - Une Balade en Ville - 195x130 - 2022 - Acrylique sur Toile.jpg"
-      artworks price: 2900.00
-      artworks link: 
-      artworks title: Une Balade en Ville
-      artworks description: |
-        Acrylique sur Toile sur Châssis  
-        Acrylic on Canvas on Strecther  
-        Acrilico sobre Tela en Bastidor  
+    # - artworks file name: "b/Lichta - Une Balade en Ville - 195x130 - 2022 - Acrylique sur Toile.jpg"
+    #   artworks price: 2900.00
+    #   artworks link: 
+    #   artworks title: Une Balade en Ville
+    #   artworks description: |
+    #     Acrylique sur Toile sur Châssis  
+    #     Acrylic on Canvas on Strecther  
+    #     Acrilico sobre Tela en Bastidor  
 
-        2022  
+    #     2022  
 
-        195x130 cm
+    #     195x130 cm
     - artworks file name: "b/Lichta - La Savane - 100x100 - 2023 - Acrylique sur Toile, Plexiglas.jpg"
       artworks price: 3800.00
-      artworks link: https://www.pcagalleryart.com/product-page/la-savane-certified-signed
+      artworks link: https://www.artsper.com/oeuvres-d-art-contemporain/peinture/1947258/la-savane
       artworks title: La Savane
       artworks description: |
         Acrylique sur Toile sur Châssis avec Plexiglas  
@@ -102,7 +102,7 @@
 
     - artworks file name: "b/Lichta - Mon Jardin Eden - 100x100 - 2022 - Acrylique sur Toile 2.jpg"
       artworks price: 3800.00
-      artworks link: https://www.pcagalleryart.com/product-page/lujo-como-necesidad-certified-signed
+      artworks link: https://www.artsper.com/oeuvres-d-art-contemporain/peinture/1947252/mon-jardin-deden
       artworks title: Mon Jardin Eden
       artworks description: |
         Acrylique sur Toile sur Châssis  
@@ -113,8 +113,8 @@
 
         100x100 cm  
     - artworks file name: "b/Lichta - Renaissance - 195x130 - 2022 - Acrylique sur Toile 2.jpg"
-      artworks price: 5800.00
-      artworks link: https://www.pcagalleryart.com/product-page/renaissance-certified-signed
+      artworks price: 4000.00
+      artworks link: https://www.artsper.com/oeuvres-d-art-contemporain/peinture/1971540/renaissance
       artworks title: Renaissance
       artworks description: |
         Acrylique sur Toile sur Châssis  
@@ -125,8 +125,8 @@
 
         195x130 cm  
     - artworks file name: "b/Lichta - Un Nouveau Départ - 100x100 - 2022 - Acrylique sur Toile, Plexiglas 2.jpg"
-      artworks price: 3800.00
-      artworks link: https://www.pcagalleryart.com/product-page/un-nouveau-d%C3%A9part-certified-signed
+      artworks price: 2800.00
+      artworks link: https://www.artsper.com/oeuvres-d-art-contemporain/peinture/1971519/un-nouveau-depart
       artworks title: Un nouveau départ
       artworks description: |
         Acrylique sur Toile sur Châssis avec Plexiglas  
@@ -137,8 +137,8 @@
 
         100x100 cm  
     - artworks file name: "b/Lichta - Un Nouveau Monde - 195x130 - 2022 - Acrylique sur Toile 1.jpg"
-      artworks price: 5800.00
-      artworks link: https://www.pcagalleryart.com/product-page/un-nouveau-monde-certified-signed
+      artworks price: 4000.00
+      artworks link: https://www.artsper.com/oeuvres-d-art-contemporain/peinture/1971543/un-nouveau-monde
       artworks title: Un nouveau Monde
       artworks description: |
         Acrylique sur Toile sur Châssis avec Plexiglas  
@@ -151,8 +151,8 @@
     # rggggggggggggggggggawrgawrgrgaw
     
     - artworks file name: "b/Lichta - La Belle Vie 1 - 100x100- 2022 - Acrylique sur Toile 1.jpg"
-      artworks price: 2100.00
-      artworks link: 
+      artworks price: 2800.00
+      artworks link: https://www.artsper.com/oeuvres-d-art-contemporain/peinture/1971378/la-belle-vie-1
       artworks title: La Belle Vie 1
       artworks description: |
         Acrylique sur Toile sur Châssis avec Plexiglas  
@@ -163,8 +163,8 @@
 
         100x100 cm  
     - artworks file name: "b/Lichta - La Belle Vie 2 - 100x100 - 2022 - Acrylique sur Toile 1.jpg"
-      artworks price: 2100.00
-      artworks link: 
+      artworks price: 2800.00
+      artworks link: https://www.artsper.com/oeuvres-d-art-contemporain/peinture/1971465/la-belle-vie-2
       artworks title: La Belle Vie 2
       artworks description: |
         Acrylique sur Toile sur Châssis avec Plexiglas  
@@ -175,8 +175,8 @@
 
         100x100 cm  
     - artworks file name: "b/Lichta - La Belle Vie 3 - 100x100 - 2022 - Acrylique sur Toile 1.jpg"
-      artworks price: 2100.00
-      artworks link: 
+      artworks price: 2800.00
+      artworks link: https://www.artsper.com/oeuvres-d-art-contemporain/peinture/1971471/la-belle-vie-3
       artworks title: La Belle Vie 3
       artworks description: |
         Acrylique sur Toile sur Châssis avec Plexiglas  
@@ -187,8 +187,8 @@
 
         100x100 cm  
     - artworks file name: "b/Lichta - La Belle Vie 4 - 100x100 - 2022 - Acrylique sur Toile 1.jpg"
-      artworks price: 2100.00
-      artworks link: 
+      artworks price: 2800.00
+      artworks link: https://www.artsper.com/oeuvres-d-art-contemporain/peinture/1971474/la-belle-vie-4
       artworks title: La belle vie 4
       artworks description: |
         Acrylique sur Toile sur Châssis avec Plexiglas  
@@ -199,8 +199,8 @@
 
         100x100 cm
     - artworks file name: "b/Lichta - La Marinière - 100x100 - 2022 - Acrylique sur Toile.jpg"
-      artworks price: 2100.00
-      artworks link: 
+      artworks price: 2800.00
+      artworks link: https://www.artsper.com/oeuvres-d-art-contemporain/peinture/1971483/la-mariniere
       artworks title: La Marinière
       artworks description: |
         Acrylique sur Toile sur Châssis avec Plexiglas  
@@ -212,7 +212,7 @@
         100x100 cm  
     - artworks file name: "b/Lichta - Levé du Jour - 195x114 - 2022 - Acrylique sur Toile.jpg"
       artworks price: 5800.00
-      artworks link: https://www.pcagalleryart.com/product-page/lev%C3%A9-du-jour-certified-signed
+      artworks link: https://www.artsper.com/oeuvres-d-art-contemporain/peinture/1971534/leve-du-jour
       artworks title: Levé du Jour
       artworks description: |
         Acrylique sur Toile sur Châssis  
@@ -224,8 +224,8 @@
         195x114 cm  
 
     - artworks file name: "b/Lichta - Regards de Femmes - 100x100 - 2022 - Acrylique sur Toile 2.jpg"
-      artworks price: 3800.00
-      artworks link: https://www.pcagalleryart.com/product-page/regards-de-femmes-certified-signed
+      artworks price: 2800.00
+      artworks link: https://www.artsper.com/oeuvres-d-art-contemporain/peinture/1971486/regards-de-femmes
       artworks title: Regards de Femmes
       artworks description: |
         Acrylique sur Toile Coton sur Châssis avec Plexiglas  
@@ -236,8 +236,8 @@
 
         100x100 cm  
     - artworks file name: "b/Lichta - Regards sur le Monde - 195x130 - 2022 - Acrylique sur Toile 1.jpg"
-      artworks price: 5800.00
-      artworks link: https://www.pcagalleryart.com/product-page/regards-sur-le-monde-certified-signed
+      artworks price: 4000.00
+      artworks link: https://www.artsper.com/oeuvres-d-art-contemporain/peinture/1971537/regards-sur-le-monde
       artworks title: Regards sur le Monde
       artworks description: |
         Acrylique sur Toile sur Châssis  
@@ -248,8 +248,8 @@
 
         195x130 cm  
     - artworks file name: "b/Lichta - Une Nouvelle Exploration - 100x100 - 2022 - Acrylique sur Toile, Plexiglas 1.jpg"
-      artworks price: 3800.00
-      artworks link: https://www.pcagalleryart.com/product-page/une-nouvelle-exploration-certified-signed
+      artworks price: 2800.00
+      artworks link: https://www.artsper.com/oeuvres-d-art-contemporain/peinture/1971528/une-nouvelle-exploration
       artworks title: Une Nouvelle Exploration
       artworks description: |
         Acrylique sur Toile sur Châssis avec Plexiglas  
