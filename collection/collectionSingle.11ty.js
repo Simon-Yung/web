@@ -1,6 +1,8 @@
 class Test {
 	data() {
 		return {
+			// title: "COULEURS ET EXPRESSIOINS",
+			// description: "Etre libre et accepter les couleurs, les matières et les mouvements, leurs appels et, ainsi, pénétrer une autre dimension et lui donner corps et âme, voici ce qui me fonde...Les matières, les couleurs, les matières des couleurs, 'agissent' plus dans mon travail que le trait pour définir une forme, un mouvement, une expression...",
 			layout: 'modal.njk',
 			pagination: {
 				data: "collections.artworksCollections",

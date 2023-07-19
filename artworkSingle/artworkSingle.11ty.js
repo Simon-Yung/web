@@ -6,6 +6,11 @@ class Test {
 				data: "collections.artworks",
 				size: 1
 			},
+			// eleventyComputed: {
+			// 	title: `${data.pagination.items[0].title}`,
+			// 	description: `${data.pagination.items[0].description}`,
+			// 	image: `${data.pagination.items[0].image.small}`
+			// },
 			permalink: function (data) { return `/artwork/${this.slug(data.pagination.items[0].title)}-${data.pagination.items[0].hash}/` }
 		};
 	}

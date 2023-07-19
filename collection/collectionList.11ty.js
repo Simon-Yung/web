@@ -1,15 +1,17 @@
 class Test {
     data() {
-        return {
-            layout: 'home.njk',
-            permalink: function (data) { return `/collection/` }
-        };
-    }
+		return {
+			title: "ARTISTE PEINTRE CONTEMPORAIN",
+			description: "Artiste français contemporain, peintre moderne et abstrait. Il sait restituer ses expériences et rencontres passées qui l'ont inspiré. Les couleurs et les matières qui constituent son travail sont l'humeur de ses moments.",
+			layout: 'home.njk',
+			permalink: function (data) { return `/collection/` }
+		};
+	}
 
-    render(data) {
-        let chapters = '';
-        for (let i = 0; i < data.collections.artworksCollections.length; i++) {
-            chapters += `
+	render(data) {
+		let chapters = '';
+		for (let i = 0; i < data.collections.artworksCollections.length; i++) {
+			chapters += `
 			<img
 				id="BG_${i}"
 				class="backgroundImage"
@@ -22,8 +24,8 @@ class Test {
 			> 
 				${data.collections.artworksCollections[i].title}
 			</a>`;
-        }
-        return `
+		}
+		return `
 			<nav class="chapterList">
 			<img
 				id="BG_${-1}"
@@ -42,7 +44,7 @@ class Test {
 			${chapters}
 			<hr style="margin-top:1.25rem">
 			</nav>`
-    }
+	}
 }
 
 

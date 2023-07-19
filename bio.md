@@ -3,7 +3,7 @@ title: "ARTISTE"
 layout: textWithBg.njk
 lang: fr
 image: ""
-description: ""
+description: "Artiste français contemporain, peintre moderne et abstrait. Il sait restituer ses expériences et rencontres passées qui l'ont inspiré. Les couleurs et les matières qui constituent son travail sont l'humeur de ses moments."
 ---
 
 # Lichta
