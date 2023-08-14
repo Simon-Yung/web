@@ -3,7 +3,7 @@ const Image = require("@11ty/eleventy-img");
 const yaml = require("js-yaml");
 const fs = require('fs');
 const md = require('markdown-it')();
-const outputDir = 'docs';
+const outputDir = '_site';
 
 // function searchByGlob(glob) {
 // 	//this function DOES NOT return the initial / slash 
