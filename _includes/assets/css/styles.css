@@ -978,16 +978,17 @@
 
 	/*----------------------page with text----------------------*/
 	.textBox {
+		margin: auto auto auto 5%;
+		/**/
 		padding: 30px;
-		width: 100%;
+		width: 95%;
 		/* min-height: 100vh; */
 		max-width: 950px;
 		display: flex;
 		justify-content: flex-start;
 		flex-direction: column;
-		margin: auto;
+		/* margin: auto; */
 	}
-
 	.textBox__background {
 		padding: 30px;
 		width: 100%;
@@ -995,6 +996,17 @@
 		justify-content: flex-start;
 		flex-direction: column;
 		background-color: rgba(0, 0, 0, 0.25);
+	}
+
+	@media screen and (max-width: 600px) {
+		.textBox {
+			margin: auto auto auto auto;
+			/**/
+			padding: 30px 10px;
+		}
+		.textBox__background {
+		padding: 30px 10px;
+		}
 	}
 
 	.textBox p {

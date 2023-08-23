@@ -36,6 +36,7 @@ class Test {
 						flex-basis:${item.artworks[i].image.ratio}px;
 						flex-grow:${item.artworks[i].image.ratio};
 						flex-shrink:${item.artworks[i].image.ratio};">
+					<a class="" href="${data.website.url}/artwork/${this.slug(item.artworks[i].title)}-${item.artworks[i].hash}">
 					<img
 						onclick="openModalGallery(${i});// fix this later"
 						data-title="${item.artworks[i].title}"
@@ -44,6 +45,7 @@ class Test {
 						id="${i}"
 						class="gallery__preview"
 						src="${data.website.url}${item.artworks[i].image.small}">
+					</a>
 				</div>`
 		}
 

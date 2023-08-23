@@ -105,6 +105,9 @@ function showMenu(top, left) {
 	menuIsVisible = true;
 };
 
+// prevent default href behaviour
+const anchorLinks = document.querySelectorAll(".gallery__line__item > a");
+anchorLinks.forEach((anchor) => { anchor.addEventListener("click", (e) => { e.preventDefault() }) });
 
 // EVENTLISTENER
 
